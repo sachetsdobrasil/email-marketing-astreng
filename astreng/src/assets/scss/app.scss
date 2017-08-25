@@ -1,0 +1,52 @@
+@import 'settings';
+@import 'foundation-emails';
+
+@import 'template/template';
+
+.above-top{
+	background: url('../assets/img/above-top.jpg') no-repeat top center;
+	background-size: 100%;
+}
+.spaced{
+	letter-spacing: .2em;
+}
+.all-width{
+	width: 100%;
+}
+.yellow{
+	color: white;
+	background: #ffba00;
+	padding: 20px 0px 5px;
+	letter-spacing: .15em;
+}
+.cupom{
+	color: white;
+	background: #ffba00;
+	font-size: 18px;
+	margin-bottom: 0px;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.red{
+	color: #bb0e0e;
+}
+
+.acess-site{
+	background: #ffba00;
+	color: white;
+	padding: 20px 0px 5px;
+}
+
+.blue{
+	color: #10355f;
+	font-weight: bold;
+}
+.separador{
+	width: 50%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.acess-site{
+	padding: 20px 20px;
+}

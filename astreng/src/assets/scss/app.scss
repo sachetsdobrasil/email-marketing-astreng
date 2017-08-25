@@ -50,3 +50,18 @@
 .acess-site{
 	padding: 20px 20px;
 }
+
+.asset{
+	height: 40px;
+	padding-bottom: 10px;
+}
+.container-total{
+	background: #f5f5f5;
+}
+
+@media(max-width: 596px) {
+	.asset{
+		height: 40px !important;
+		padding-bottom: 10px;
+	}
+}
